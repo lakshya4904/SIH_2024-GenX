@@ -1,0 +1,23 @@
+{
+  "name": "sih_2024-genx",
+  "version": "1.0.0",
+  "description": "This is project for SIH 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshya4904/SIH_2024-GenX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshya4904/SIH_2024-GenX/issues"
+  },
+  "homepage": "https://github.com/lakshya4904/SIH_2024-GenX#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
